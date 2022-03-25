@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahorj
 - 👀 I’m interested in Dristibuted systesm, Kubernetes and Site reliabilty
-- 🌱 I’m currently learning Kuernetes and Azure
+- 🌱 I’m currently learning Kubernetes and Azure
 - 💞️ I’m looking to collaborate on open learning oppurtunities
 - 📫 Ream me on rohanjoseph.work@gmail.com , https://www.linkedin.com/in/rohan-joseph98/
 
